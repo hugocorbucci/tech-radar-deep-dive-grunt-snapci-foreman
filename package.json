@@ -25,5 +25,8 @@
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-mocha": "^0.4.11",
     "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "connect": "^3.3.4"
   }
 }
