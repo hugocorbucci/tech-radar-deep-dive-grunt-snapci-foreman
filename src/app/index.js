@@ -1,6 +1,6 @@
 app = {
   index: function() {
-    return 'hello world';
+    return 'hello world in time!';
   }
 };
 
