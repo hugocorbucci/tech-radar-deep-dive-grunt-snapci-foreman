@@ -3,3 +3,5 @@ app = {
     return 'hello world';
   }
 };
+
+module.exports = app;
